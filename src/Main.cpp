@@ -3,7 +3,6 @@
 //#include "../include/Motores.cpp"
 //#include "../include/Sen_Linea.cpp"
 //#include "../include/Sen_Oponente.cpp"
-//
 
 #define SWEEP_SPEED 50                        // Cambio de velocidad
 #define EQUIVALENT_12V 100                    // 12 V
